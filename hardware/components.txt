@@ -1,0 +1,24 @@
+Smart Room Fan Automation System - Components List
+
+Core Components:
+- Arduino Uno
+- DHT11 Temperature Sensor
+- 16x2 LCD Display with I2C Module
+- 2x IR People Detection Sensors
+- DC Fan
+
+Control & Power:
+- NPN Transistor (e.g., IRLZ44N MOSFET)
+- Diode
+- Resistors (1kΩ)
+
+Connections:
+- Breadboard
+- Jumper Wires
+
+Power Supply:
+- USB Power (5V) or External Power Supply (if fan requires higher current)
+
+Optional (for improvements):
+- ESP32 (for IoT upgrade)
+- DHT22 Sensor (higher accuracy)
