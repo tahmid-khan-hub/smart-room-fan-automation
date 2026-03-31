@@ -49,3 +49,10 @@ An Arduino-based smart system that automatically controls a fan based on room oc
 5. **LCD Display**:
    - Shows **Temperature**
    - Shows **People count**
+
+---
+
+## Project Demo
+![Team Working on Project](assets/images/team_working.png)
+![Circuit Setup](assets/images/setup.png)
+![Arduino Board](assets/images/arduino.jpeg)
