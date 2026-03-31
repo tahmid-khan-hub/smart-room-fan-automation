@@ -1,0 +1,27 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# VS Code settings
+.vscode/
+
+# Arduino build files
+*.ino.cpp
+*.elf
+*.hex
+*.bin
+
+# Temporary files
+*.log
+*.tmp
+
+# Dependency folders (if any in future)
+node_modules/
+
+# Compiled output
+build/
+dist/
+
+# Backup files
+*.bak
+*.swp
